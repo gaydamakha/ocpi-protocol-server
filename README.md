@@ -1,2 +1,2 @@
 # ocpi-golang
-Golang implementation of Open Charge Point Interface
+Golang implementation of Open Charge Point Interface protocol
